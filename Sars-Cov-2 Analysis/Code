@@ -1,4 +1,3 @@
-```python
 !pip install biopython
 from Bio import SeqIO
 
@@ -108,4 +107,3 @@ plt.xticks(rotation=90, fontsize=10)
 plt.legend(title="Amino Acids", bbox_to_anchor=(1.05, 1), loc="upper left")
 plt.tight_layout()
 plt.show()
-```
